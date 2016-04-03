@@ -15,6 +15,6 @@ to an edge from "from" vertex to a "to" vertex.
 between ```u``` and ```v```
 
 ## Description of classes
-* Graph - interface for the graph methods
-* CapGraph - implements Graph interface. Includes the methods to extract Ego Networks and SCC
-* GraphLoader - used to load a graph from a text file
+* ```Graph``` - interface for the graph methods
+* ```CapGraph``` - implements Graph interface. Includes the methods to extract Ego Networks and SCC
+* ```GraphLoader``` - used to load a graph from a text file
